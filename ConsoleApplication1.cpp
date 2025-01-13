@@ -6,7 +6,7 @@ using namespace std;
 void taskProd() {
     int num;
     long long prod = 1;
-    cout << "Task 1: PROD\nEnter integers (0 to end):" << endl;
+    cout << "Task: PROD\nEnter integers (0 to end):" << endl;
     while (true) {
         cin >> num;
         if (num == 0)
